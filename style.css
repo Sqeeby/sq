@@ -1,0 +1,229 @@
+
+   body {
+    background-image: url(https://i.pinimg.com/736x/a1/ea/06/a1ea062fb0ebda5b7e7a9cd49969f897.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+   }
+
+   .sq {
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    width: 280px;
+    height: 270px;
+
+    border-radius: 30px;
+    border: 4px solid rgb(173, 172, 181);
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+
+   }
+
+   .box {
+    background: #2f37a941;
+
+    border-radius: 15px;
+    border: 4px solid rgb(59, 54, 137);
+    box-shadow: 0 0 10px rgb(58, 52, 144);
+
+    width: 1327px;
+    height: 330px;
+   }
+
+   .sqeeby {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 160px;
+    position: absolute;
+    top: -170px;
+    left: 340px;
+    color: rgb(235, 234, 239);
+   }
+
+   .aka {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    position: absolute;
+    top: 170px;
+    left: 340px;
+    color: rgb(235, 234, 239);
+   }
+
+   .skibidi {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 35px;
+    position: absolute;
+    top: 200px;
+    left: 340px;
+    color: rgb(208, 113, 125);
+   }
+
+   .info {
+    position: absolute;
+    top: 360px;
+    left: 485px;
+    background: #2732af4a;
+
+    border-radius: 15px;
+    border: 4px solid rgb(227, 226, 232);
+    box-shadow: 0 0 10px rgb(151, 150, 162);
+
+    width: 850px;
+    height: 350px;
+   }
+
+   .tg {
+    position: absolute;
+    top: 360px;
+    left: 10px;
+
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: inline-block;
+    padding: 40px 50px;
+    background-color: #007BFF; 
+    color: white; 
+    text-align: center; 
+    text-decoration: none;
+    border-radius: 15px; 
+    border: 4px solid rgb(227, 226, 232);
+    box-shadow: 0 0 10px rgb(151, 150, 162);
+    cursor: pointer; 
+    font-size: 70px; 
+   }
+
+   .tg:hover {
+    background-color: #5694d2;
+    transition: 240ms;
+    transform: scale(1.01);
+   }
+
+   .ds {
+
+    position: absolute;
+    top: 545px;
+    left: 10px;
+
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: inline-block;
+    padding: 40px 85px;
+    background-color: #272ae7; 
+    color: white; 
+    text-align: center; 
+    text-decoration: none;
+    border-radius: 15px; 
+    border: 4px solid rgb(227, 226, 232);
+    box-shadow: 0 0 10px rgb(151, 150, 162);
+    cursor: pointer; 
+    font-size: 70px; 
+
+   }
+
+   .ds:hover {
+    background-color: #3b6793;
+    transition: 240ms;
+    transform: scale(1.01);
+   }
+
+   .text {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    position: absolute;
+    top: 330px;
+    left: 505px;
+    color: rgb(235, 234, 239);
+   }
+
+   .country {
+    position: absolute;
+    top: 20px;
+    left: 1039px;
+    background: #b7b9ce4a;
+
+    border-radius: 15px;
+    border: 4px solid rgb(160, 160, 185);
+    box-shadow: 0 0 10px rgb(223, 222, 231);
+
+    width: 280px;
+    height: 80px;
+   }
+
+   .age {
+    position: absolute;
+    top: 120px;
+    left: 1039px;
+    background: #b7b9ce4a;
+
+    border-radius: 15px;
+    border: 4px solid rgb(160, 160, 185);
+    box-shadow: 0 0 10px rgb(223, 222, 231);
+
+    width: 280px;
+    height: 80px;
+   }
+
+   .hehebox {
+    position: absolute;
+    top: 220px;
+    left: 1039px;
+    background: #b7b9ce4a;
+
+    border-radius: 15px;
+    border: 4px solid rgb(160, 160, 185);
+    box-shadow: 0 0 10px rgb(223, 222, 231);
+
+    width: 280px;
+    height: 80px;
+   }
+
+   .russia {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    position: absolute;
+    top: -32px;
+    left: 1070px;
+    color: rgb(235, 234, 239);
+   }
+
+   .yo {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    position: absolute;
+    top: 67px;
+    left: 1090px;
+    color: rgb(235, 234, 239);
+   }
+
+   .hehe {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    position: absolute;
+    top: 167px;
+    left: 1080px;
+    color: rgb(235, 234, 239);
+   }
+
+   .as {
+    position: absolute;
+    top: 700px;
+    left: 10px;
+    width: 1325px;
+    height: 1400px;
+   }
