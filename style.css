@@ -21,10 +21,10 @@
    }
 
    .box {
-    background: #2f37a941;
+    background: #00000041;
 
     border-radius: 15px;
-    border: 4px solid rgb(59, 54, 137);
+    border: 4px solid rgb(147, 145, 174);
     box-shadow: 0 0 10px rgb(58, 52, 144);
 
     width: 1327px;
